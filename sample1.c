@@ -16,5 +16,4 @@ void main()
 	printf("Node name : %s\n",buf.nodename);
 	printf("Release name : %s\n",buf.release);
 	printf("Version name : %s\n",buf.version);
-	printf("Machine name : %s\n",buf.machine);
 }
